@@ -46,7 +46,7 @@ npm start
 The server will run on http://localhost:3000 by default.
 
 5. Use Postman for API Requests
-✅ Click here to join the Postman Collection
+   https://app.getpostman.com/join-team?invite_code=fdade77ec36e5bf7ea048c7a2a53a374ddda8f76f959da0323cbb1a677d8b925 to join the Postman Collection
 
 Explore:
 
